@@ -10,4 +10,4 @@ The data for this activity is in a spreadsheet that includes datapoints across a
 
 As this data is obtained from a real industry, we'll need to perform data cleaning and EDA before we fit it in a model.
 
-The dataset has been made available in csv format as well
+This project was performed as a part of Google advanced data analysis program.The dataset has been made available in csv format as well
